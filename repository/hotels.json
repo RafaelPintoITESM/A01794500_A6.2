@@ -1,0 +1,16 @@
+{
+    "1": {
+        "name": "Hotel Sol",
+        "address": "Calle Sol, 123",
+        "rooms": 2,
+        "reservations": {
+            "res2": "cust2"
+        }
+    },
+    "2": {
+        "name": "Hotel Luna",
+        "address": "Calle Luna, 456",
+        "rooms": 3,
+        "reservations": {}
+    }
+}
